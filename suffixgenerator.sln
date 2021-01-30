@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "suffixgenerator", "suffixgenerator\suffixgenerator.csproj", "{C1B81C31-AF45-4CEB-B175-37DA9E465C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1B81C31-AF45-4CEB-B175-37DA9E465C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B81C31-AF45-4CEB-B175-37DA9E465C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B81C31-AF45-4CEB-B175-37DA9E465C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B81C31-AF45-4CEB-B175-37DA9E465C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90348400-434A-4080-AE3A-FC68E1891923}
+	EndGlobalSection
+EndGlobal
